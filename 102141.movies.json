@@ -1,0 +1,111 @@
+[{
+  "_id": {
+    "$oid": "677132496e228857445b105d"
+  },
+  "title": "Incepcja",
+  "director": "Christopher Nolan",
+  "year": 2015,
+  "genre": "Komedia",
+  "seen": false
+},
+{
+  "_id": {
+    "$oid": "677132666e228857445b105f"
+  },
+  "title": "Skazani na Shawshank",
+  "director": "Frank Barabont",
+  "year": 1993,
+  "genre": "Dramat",
+  "seen": false
+},
+{
+  "_id": {
+    "$oid": "677132846e228857445b1062"
+  },
+  "title": "Pulp Fiction",
+  "director": "Quentin Tarantino",
+  "year": 1999,
+  "genre": "Kryminalny",
+  "seen": false
+},
+{
+  "_id": {
+    "$oid": "677132a66e228857445b1064"
+  },
+  "title": "Forrest Gump",
+  "director": "Robert Zemeckis",
+  "year": 1994,
+  "genre": "Komedio-dramat",
+  "seen": true
+},
+{
+  "_id": {
+    "$oid": "677133266e228857445b106d"
+  },
+  "title": "Matrix",
+  "director": "Lana Wachowski",
+  "year": 2000,
+  "genre": "Science-Fiction",
+  "seen": false
+},
+{
+  "_id": {
+    "$oid": "67714d1f6e228857445b112f"
+  },
+  "title": "test2",
+  "director": "test3",
+  "year": 2025,
+  "genre": "Dramat",
+  "seen": true
+},
+{
+  "_id": {
+    "$oid": "6776570c0adaa49a9d2981de"
+  },
+  "title": "test3",
+  "director": "jakub zatorski",
+  "year": 2023,
+  "genre": "Dramat",
+  "seen": true
+},
+{
+  "_id": {
+    "$oid": "67766e200adaa49a9d298218"
+  },
+  "title": "test",
+  "director": "test",
+  "year": 2025,
+  "genre": "Komedia",
+  "seen": true
+},
+{
+  "_id": {
+    "$oid": "677a831b5339777e43e06e0d"
+  },
+  "title": "jakubzatorski",
+  "director": "jakubzatorski",
+  "year": 1999,
+  "genre": "Komedia",
+  "seen": true
+},
+{
+  "_id": {
+    "$oid": "677ed0e1253c75334989484d"
+  },
+  "title": "test 08",
+  "director": "jakubzatorski",
+  "year": 2025,
+  "genre": "Dramat",
+  "seen": true
+},
+{
+  "_id": {
+    "$oid": "677fefd6d2d8e27cd8b05049"
+  },
+  "title": "test 2",
+  "director": "test",
+  "year": 2025,
+  "genre": "Komedia",
+  "seen": true,
+  "__v": 0
+}]
